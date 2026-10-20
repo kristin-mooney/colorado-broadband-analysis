@@ -1,4 +1,4 @@
-# 🌐 Colorado's Broadband Opportunity
+# Colorado's Broadband Opportunity
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/kristin.mooney/viz/TableauFiberAnalysis/ColoradosBroadbandOpportunity)
 [![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)](https://kristin-mooney.github.io/colorado-broadband/)
@@ -7,11 +7,11 @@ A four-dashboard Tableau story analyzing Colorado's competitive broadband landsc
 
 ---
 
-## 🔗 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/kristin.mooney/viz/TableauFiberAnalysis/ColoradosBroadbandOpportunity)
+## [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/kristin.mooney/viz/TableauFiberAnalysis/ColoradosBroadbandOpportunity)
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### Dashboard 1 — Broadband Landscape
 ![Broadband Landscape](<screenshots/Colorados Broadband Landscape.png>)
@@ -41,33 +41,33 @@ Applies IBM Telco Churn modeling to identify customers most at risk of leaving. 
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 | Insight | Detail |
 |---|---|
-| 🗺️ Coverage Gaps | Significant underserved areas identified across rural Colorado counties |
-| ⚔️ Competitive Pressure | Several high-density markets dominated by a single incumbent provider |
-| 📡 Fiber Opportunity | Prioritized expansion zones identified by combining coverage and demand signals |
-| ⚠️ Churn Risk | Key behavioral and demographic indicators of churn risk surfaced from telco data |
-| 🎯 Retention Strategy | At-risk customer segments identified for targeted intervention |
+| Coverage Gaps | Significant underserved areas identified across rural Colorado counties |
+| Competitive Pressure | Several high-density markets dominated by a single incumbent provider |
+| Fiber Opportunity | Prioritized expansion zones identified by combining coverage and demand signals |
+| Churn Risk | Key behavioral and demographic indicators of churn risk surfaced from telco data |
+| Retention Strategy | At-risk customer segments identified for targeted intervention |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **MySQL** — data transformation and analysis queries
 - **Tableau Desktop & Tableau Public** — four-dashboard story and publishing
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 
 - **FCC Broadband Data (December 2025)** — provider coverage, technology type, and service area by geography
 - **IBM Telco Churn Dataset (Kaggle, 2018)** — customer churn indicators and retention modeling
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── screenshots/
